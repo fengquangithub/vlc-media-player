@@ -1,0 +1,16 @@
+{
+  "name": "vlc-media-player",
+  "version": "1.0.0",
+  "description": "vlc meida player",
+  "main": "vlc-player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vlc",
+    "media",
+    "vlc-player"
+  ],
+  "author": "wangfengquan",
+  "license": "ISC"
+}
